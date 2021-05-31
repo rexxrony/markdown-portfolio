@@ -1,4 +1,4 @@
-* Video Editing
-* Photography
-* Web Designing
-* Gaming
+* Video Editing :computer:
+* Photography :camera:
+* Web Designing :spider_web:
+* Gaming :video_game:
